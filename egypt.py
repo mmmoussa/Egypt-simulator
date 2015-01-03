@@ -58,7 +58,7 @@ class Egypt():
 			print(self.rProtest[1])
 			self.jail()
 		elif num > 4:
-			print(self.rProtest[num])
+			print(self.rProtest[2])
 			self.day+=1
 			self.firstChoice()
 
